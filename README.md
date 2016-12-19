@@ -1,4 +1,4 @@
-### Example of using Gmai's API and Golang to send email
+### Example of using Gmail's API and Golang to send email
 
 Make sure to change the credentials to your own inside email.go 
 
